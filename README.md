@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Omar Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm an undergrad student at the German University in Cairo (GUC). I like to code, design, innovate, and experiment. I am an active and friendly person who enjoys taking on new tasks and learning new skills. I enjoy meeting new people, exchanging ideas, and sharing information and optimism.</h4>
@@ -44,6 +44,11 @@
   <a href="https://react.dev/" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/React-%231572B6.svg?style=flat&logo=React&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="[https://react.dev/](https://tailwindui.com/components/application-ui/forms/sign-in-forms)" target="_blank"> 
+    <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-%231572B6.svg?style=flat&logo=Tailwind&logoColor=white"/>
+  </a>
+	
 </p>
 
 ### 👉 Databases
