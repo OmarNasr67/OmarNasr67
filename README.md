@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm Omar Ahmed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm an undergrad student at the German University in Cairo (GUC). I like to code, design, innovate, and experiment. I am an active and friendly person who enjoys taking on new tasks and learning new skills. I enjoy meeting new people, exchanging ideas, and sharing information and optimism.</h4>
